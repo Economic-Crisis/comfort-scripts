@@ -1,2 +1,2 @@
-# python-scripts
-Python scripts that help with error correction or get rid of tedious work.
+# comfort -scripts
+Python/C++ scripts that help fix bugs or get rid of tedious work when working with Clausewitz Engine files.
